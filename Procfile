@@ -1,1 +1,1 @@
-worker: bash PYTHONBOT-LEGENDLX
+userbot: python -m userbot
